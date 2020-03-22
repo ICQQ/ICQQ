@@ -1,5 +1,5 @@
 ## Research Assistant
-- Huang Huajie \* <span style="color:blue"></span> (MGshizi,huanghuajie@sjtu.edu.cn) 
+- Huang Huajie <span style="color:blue"></span> (MGshizi,huanghuajie@sjtu.edu.cn) 
 
 ## Training Materials Owner:
 - Software: Lu Wei

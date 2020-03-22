@@ -47,6 +47,7 @@
  - P2. Digital Encoding with ML calibration
  6. Yang Chengyuan(U.G. Yr4) - Improving Async. Balsa Compiler<span style="color:blue"></span> (darknightycy, darknightycy@sjtu.edu.cn)
  7. Zheng Qifan (U.G. Yr4) - Async. AES + PUF Design<span style="color:blue"></span> (ZQF1998,*)
+ 
 **FPGA Accelerator Design Team No. 5 (4):**
  1. Li Cen*/** (Master Yr3) - Object Detection FPGA Accelerator<span style="color:blue"></span> (lgc2013, lgc2013@sjtu.edu.cn)
  2. Hu Lining* (Master Yr2 校企) - Object Detection Micro-YOLO & Compression<span style="color:blue"></span> (Ringhu, ring.hu@sjtu.edu.cn)
@@ -54,6 +55,7 @@
  4. Yan Weihong (Master Yr1) <span style="color:blue"></span> (whkkkkkkc, 1135712069@qq.com) - 
  - P1. NN Contest
  - P2. ECG Identification HW Accelerator
+ 
 **Biomedical Signal Processing Team No. 6 (7):**
  1. Zhang Zhe\**(Master Yr3) <span style="color:blue"></span> (Ray-ZhangZhe, link_rayer@hotmail.com) - 
  - P1. EEG Seizure Classification Paper
@@ -66,6 +68,7 @@
  5. Yu Qing\**(Master Yr3) - Speech correction for Parkinson Disease Patient <span style="color:blue"></span> (longisland04, 654749513@qq.com)
  6. Zhang Jiayu (U.G. Yr3 PRP) - EEG Sleep Stage Classification under Sabor<span style="color:blue"></span> 
  7. Jiang Yiwei (U.G. Yr3 PRP) - EEG Sleep Stage Classification under Sabor
+ 
 **EDA Team No. 7 (8):**
  1. Zhang Qing\* (Ph.D.) - Standard Cell Automation - ICCAD<span style="color:blue"></span>(iamzhangqing, 736668941@qq.com)
  2. Xu Xinzi\*(Ph.D.) - IEEE Leadership <span style="color:blue"></span> (xinziXu, xu_xinzi@163.com) - 
